@@ -5,7 +5,7 @@
     text-decoration: none;
 }
 body{
-    background-color: white;
+    background-color: whitesmoke;
     min-height: 100px;
     display: flex;
     align-items: center;
@@ -30,7 +30,7 @@ body{
     display: flex;
     margin: 30px 0;
 }
-p, text {
+p {
     color: black;
     margin-top: 10px;
     font-size: 12px;
